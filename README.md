@@ -29,14 +29,14 @@ Our hypothesis are:
 
 Ho : Convension rate in the new landing page is the same to the conversion rate in old landing page.
 
-H1 : Convension rate in the new landing page is greater than the conversion rate in old landing page.
+H1 : Convension rate in the new landing page is difference than the conversion rate in old landing page.
 
 ## Insight and Recommendation
-(Z-score = 0.584, p-value = 0.279) 
+(Z-score = 0.584, p-value = 0.558) 
 
 **Result:**
 
-The p_value > 0.05, we do not have enough evidence to reject null hypothesis. It means that the convension rate between new landing page and old landing page is **same** or it doesn't give better conversion rate than the old one (accept null hypothesis)
+The p_value > 0.05, we do not have enough evidence to reject null hypothesis. It means that the convension rate between new landing page and old landing page is **same** or it doesn't give better conversion rate than the old one (fail to reject the null hypothesis)
 
 **Recommendation**
 
