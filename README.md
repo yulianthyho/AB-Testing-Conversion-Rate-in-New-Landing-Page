@@ -45,6 +45,4 @@ Since there is no difference between the convension rate in both landing page, t
 
 
 
-
-
  
