@@ -1,4 +1,4 @@
-# A/B Testing : Is The New Landing Page Better than The Old One ? 💭👀
+# A/B Testing : Is The New Landing Page Better than The Old One ?
 Successfully help the company to validated whether the new landing page will give a better conversion rate before rolling out to a bigger audience. With A/B testing, the company can decide to keep using the old one because the result shows that there is no significant differences in conversion rate between the old and the new landing page.
 
 -	Tools: Python (hypothesis testing)
